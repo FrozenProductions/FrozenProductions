@@ -6,6 +6,19 @@
 
 ###
 
+###
+
+<h2 align="left">Current Focus</h2>
+
+###
+
+<p align="left">
+  I'm currently working on personal projects to enhance my portfolio<br>
+  Diving deep into React ecosystem and modern web development<br>
+  Looking to collaborate on innovative web applications<br>
+  Ask me about front-end development, UI/UX, or anything tech-related!
+</p>
+
 <h2 align="left">About me</h2>
 
 ###
